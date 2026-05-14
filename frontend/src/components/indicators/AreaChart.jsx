@@ -1,7 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import {
-  AreaChart as ReChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, defs, linearGradient, stop
+  AreaChart as ReChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer
 } from 'recharts'
 
 const SAMPLE = [30, 45, 38, 60, 55, 72, 68, 85, 78, 92, 88, 105]
