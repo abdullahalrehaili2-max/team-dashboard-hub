@@ -1,0 +1,133 @@
+{
+  "app_name": "لوحة تحكم الفريق",
+  "nav": {
+    "dashboards": "لوحات التحكم",
+    "templates": "مكتبة القوالب",
+    "suggest": "اقتراح ذكي",
+    "theme_editor": "محرر المظهر",
+    "weekly_entry": "الإدخال الأسبوعي",
+    "logout": "تسجيل الخروج",
+    "profile": "الملف الشخصي"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "login_btn": "دخول",
+    "logging_in": "جارٍ الدخول...",
+    "invalid_credentials": "بيانات دخول غير صحيحة"
+  },
+  "dashboard": {
+    "new": "لوحة جديدة",
+    "name": "اسم اللوحة",
+    "create": "إنشاء",
+    "edit": "تعديل",
+    "design": "تصميم",
+    "export": "تصدير",
+    "delete": "حذف",
+    "share": "مشاركة",
+    "weekly_entry": "إدخال أسبوعي",
+    "ai_suggest": "اقتراح ذكي",
+    "present": "عرض",
+    "no_dashboards": "لا توجد لوحات تحكم",
+    "create_first": "أنشئ لوحتك الأولى"
+  },
+  "section": {
+    "title": "العنوان",
+    "indicator_type": "نوع المؤشر",
+    "swap": "تغيير المؤشر",
+    "delete": "حذف",
+    "suggest": "اقتراح لهذا القسم"
+  },
+  "week": {
+    "this_week": "هذا الأسبوع",
+    "last_week": "الأسبوع الماضي",
+    "change": "التغيير",
+    "week_of": "أسبوع",
+    "carry_forward": "ترحيل القيمة",
+    "backfill": "تعبئة أسابيع سابقة",
+    "overwrite_confirm": "تأكيد الكتابة فوق",
+    "missed_weeks": "أسابيع مفقودة"
+  },
+  "template": {
+    "library": "مكتبة القوالب",
+    "new": "قالب جديد",
+    "save_as": "حفظ كقالب",
+    "clone": "استنساخ",
+    "export": "تصدير",
+    "import": "استيراد",
+    "preview": "معاينة",
+    "publish": "نشر",
+    "official": "رسمي",
+    "category": "التصنيف",
+    "search": "بحث في القوالب...",
+    "no_templates": "لا توجد قوالب"
+  },
+  "ai": {
+    "suggest": "الاقتراح الذكي",
+    "current": "الحالي",
+    "recommended": "المقترح",
+    "confidence": "الثقة",
+    "reason": "السبب",
+    "accept": "قبول",
+    "skip": "تخطي",
+    "apply": "تطبيق المحدد",
+    "dry_run": "معاينة التطبيق",
+    "swap_indicators": "تغيير المؤشرات",
+    "repack_layout": "إعادة توزيع التخطيط",
+    "regroup_pages": "إعادة تجميع الصفحات",
+    "no_changes": "لا توجد تغييرات مقترحة"
+  },
+  "theme": {
+    "editor": "محرر المظهر",
+    "presets": "القوالب الجاهزة",
+    "colors": "الألوان",
+    "typography": "الخطوط",
+    "radius": "الزوايا",
+    "density": "الكثافة",
+    "save": "حفظ المظهر",
+    "apply": "تطبيق"
+  },
+  "entry": {
+    "save": "حفظ",
+    "saving": "جارٍ الحفظ...",
+    "saved": "تم الحفظ",
+    "add_row": "إضافة صف",
+    "overwrite": "كتابة فوق"
+  },
+  "common": {
+    "loading": "جارٍ التحميل...",
+    "error": "حدث خطأ",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "save": "حفظ",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "close": "إغلاق",
+    "back": "رجوع",
+    "next": "التالي",
+    "search": "بحث",
+    "filter": "تصفية",
+    "all": "الكل",
+    "yes": "نعم",
+    "no": "لا"
+  },
+  "delta": {
+    "up": "ارتفع",
+    "down": "انخفض",
+    "flat": "ثابت",
+    "vs_last_week": "مقارنة بالأسبوع الماضي",
+    "big_move": "تحرك كبير"
+  },
+  "view_mode": {
+    "grid": "شبكة",
+    "story": "عرض",
+    "compact": "مضغوط",
+    "presentation": "بث"
+  },
+  "export": {
+    "pdf": "تصدير PDF",
+    "pptx": "تصدير PowerPoint",
+    "html": "تصدير HTML"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "app_name": "Team Dashboard Hub",
+  "nav": {
+    "dashboards": "Dashboards",
+    "templates": "Templates",
+    "suggest": "AI Suggest",
+    "theme_editor": "Theme Editor",
+    "weekly_entry": "Weekly Entry",
+    "logout": "Logout",
+    "profile": "Profile"
+  },
+  "auth": {
+    "login": "Sign In",
+    "email": "Email",
+    "password": "Password",
+    "login_btn": "Sign In",
+    "logging_in": "Signing in...",
+    "invalid_credentials": "Invalid credentials"
+  },
+  "dashboard": {
+    "new": "New Dashboard",
+    "name": "Dashboard Name",
+    "create": "Create",
+    "edit": "Edit",
+    "design": "Design",
+    "export": "Export",
+    "delete": "Delete",
+    "share": "Share",
+    "weekly_entry": "Weekly Entry",
+    "ai_suggest": "AI Suggest",
+    "present": "Present",
+    "no_dashboards": "No dashboards yet",
+    "create_first": "Create your first dashboard"
+  },
+  "section": {
+    "title": "Title",
+    "indicator_type": "Indicator Type",
+    "swap": "Swap Indicator",
+    "delete": "Delete",
+    "suggest": "Suggest for this section"
+  },
+  "week": {
+    "this_week": "This Week",
+    "last_week": "Last Week",
+    "change": "Change",
+    "week_of": "Week of",
+    "carry_forward": "Carry Forward",
+    "backfill": "Backfill Weeks",
+    "overwrite_confirm": "Confirm Overwrite",
+    "missed_weeks": "Missed Weeks"
+  },
+  "template": {
+    "library": "Template Library",
+    "new": "New Template",
+    "save_as": "Save as Template",
+    "clone": "Clone",
+    "export": "Export",
+    "import": "Import",
+    "preview": "Preview",
+    "publish": "Publish",
+    "official": "Official",
+    "category": "Category",
+    "search": "Search templates...",
+    "no_templates": "No templates found"
+  },
+  "ai": {
+    "suggest": "AI Suggester",
+    "current": "Current",
+    "recommended": "Recommended",
+    "confidence": "Confidence",
+    "reason": "Reason",
+    "accept": "Accept",
+    "skip": "Skip",
+    "apply": "Apply Selected",
+    "dry_run": "Preview Changes",
+    "swap_indicators": "Swap Indicators",
+    "repack_layout": "Repack Layout",
+    "regroup_pages": "Regroup Pages",
+    "no_changes": "No changes recommended"
+  },
+  "theme": {
+    "editor": "Theme Editor",
+    "presets": "Preset Themes",
+    "colors": "Colors",
+    "typography": "Typography",
+    "radius": "Corner Radius",
+    "density": "Density",
+    "save": "Save Theme",
+    "apply": "Apply"
+  },
+  "entry": {
+    "save": "Save",
+    "saving": "Saving...",
+    "saved": "Saved",
+    "add_row": "Add Row",
+    "overwrite": "Overwrite"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "delta": {
+    "up": "Up",
+    "down": "Down",
+    "flat": "Flat",
+    "vs_last_week": "vs last week",
+    "big_move": "Big move"
+  },
+  "view_mode": {
+    "grid": "Grid",
+    "story": "Story",
+    "compact": "Compact",
+    "presentation": "Present"
+  },
+  "export": {
+    "pdf": "Export PDF",
+    "pptx": "Export PowerPoint",
+    "html": "Export HTML"
+  }
+}
